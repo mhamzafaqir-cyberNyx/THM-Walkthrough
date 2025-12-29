@@ -1,4 +1,4 @@
-# Introduction to Defensive security
+#Defensive security
 ## What is defensive security?
 Defensive security is the practice of defending, protecting systems and devices from unauthorized access and protecting organizations's physical and digitals assets from attack.
 It is also known as the blue team.
@@ -90,7 +90,8 @@ A type of malware which show itself as a legitimate program but hide malicious f
 ### Ransomware: 
 A type of malware that encrypt the user's files, Encryption make the files unreadable and without encryption key the won't be open and the attackers offer ransom to provide that key/password.
 
-malware analysis is understanding what malware does , how it work and how to stop it.
+Malware analysis is understanding what malware does , how it work and how to stop it.
 There are two type of malware analysis
-static malware which mean without running the malware analyze it while dynamic is to run malware in control environment and monitoring its activities and observe how malware behave.
+Static malware which mean without running the malware analyze it while dynamic is to run malware in control environment and monitoring its activities and observe how malware behave.
+
 
