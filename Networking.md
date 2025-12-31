@@ -1,4 +1,4 @@
-#Room Name: What is Networking
+## Room Name: What is Networking
 
 ## Room Description:
 In this room we will cover the basics of networking. We learn about what is networking why understanding networking concepts in cybersecurity is important.
@@ -186,6 +186,7 @@ ping <IP>
 
 ### Question: What flag do you get when you ping 8.8.8.8?
 ### Answer: THM{***************}
+
 
 
 
