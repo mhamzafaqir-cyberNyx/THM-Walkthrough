@@ -17,6 +17,7 @@ Let me clear it by an example Networks are simply things connected together like
 In computing take example of Mobile phone when we want to send a whatsapp message to someone from our phone, it travel through the internet to whatsapp's server and then to friend phone this communication is networking.
 
 **Question:** What is the key term for devices that are connected together?
+
 **Answer:** Network
 
 
@@ -186,6 +187,7 @@ ping <IP>
 
 ### Question: What flag do you get when you ping 8.8.8.8?
 ### Answer: THM{***************}
+
 
 
 
